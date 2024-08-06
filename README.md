@@ -73,6 +73,7 @@ https://stanfordvl.github.io/iGibson/dataset.html
 
   ```
   git clone git@github.com:wwh0509/rl.git --recursive
+  cd rl
   pip install -r requirements.txt
   pip install -e .
   ```
